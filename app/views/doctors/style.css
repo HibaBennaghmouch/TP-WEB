@@ -1,0 +1,17 @@
+form{
+    border: 5px solid white;    
+    color: white;
+    justify-self: center;
+    font-family: Impact;
+    padding:20px 70px 20px 70px;
+    border-radius: 30px;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    
+}
